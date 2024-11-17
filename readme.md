@@ -1,4 +1,4 @@
-# Backend Subastón
+# Backend Chat
 
 - Verificar Que Tengas Instalado Node en tu equipo.
 
